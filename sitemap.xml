@@ -11,7 +11,7 @@
 
   <!-- 2. Privacy Policy -->
   <url>
-    <loc>https://neuraalisse.org/privacy-policy.html</loc>
+    <loc>https://neuraalisse.org/privacy.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
@@ -19,7 +19,7 @@
 
   <!-- 3. Terms & Conditions -->
   <url>
-    <loc>https://neuraalisse.org/terms-conditions.html</loc>
+    <loc>https://neuraalisse.org/terms.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
